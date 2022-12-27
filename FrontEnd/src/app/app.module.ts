@@ -9,6 +9,7 @@ import { SocialComponent } from './components/social/social.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 import { MenuComponent } from './components/menu/menu.component';
+import { ExperienciaComponent } from './components/experiencia/experiencia.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { MenuComponent } from './components/menu/menu.component';
     LogoAPComponent,
     SocialComponent,
     AcercaDeComponent,
-    MenuComponent
+    MenuComponent,
+    ExperienciaComponent
   ],
   imports: [
     BrowserModule,
