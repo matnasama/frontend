@@ -10,6 +10,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 import { MenuComponent } from './components/menu/menu.component';
 import { ExperienciaComponent } from './components/experiencia/experiencia.component';
+import { FondoComponent } from './components/fondo/fondo.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { ExperienciaComponent } from './components/experiencia/experiencia.compo
     SocialComponent,
     AcercaDeComponent,
     MenuComponent,
-    ExperienciaComponent
+    ExperienciaComponent,
+    FondoComponent
   ],
   imports: [
     BrowserModule,
