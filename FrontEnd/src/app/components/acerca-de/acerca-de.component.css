@@ -8,9 +8,11 @@
 }
 
 .row{
-    display: flex;
-    grid-template-columns: auto auto auto;
+ margin-top: 50px;
+ align-items: center;
 }
+
+
 
 
 
@@ -19,20 +21,8 @@
     margin-top: 20px;
 }
 
-.circulo {
-    width: 250px;
-    height: 250px;
-    border-radius: 100%;
-    margin-top: 20px;
-    margin-left: 20px;
-}
 
 .foto_perfil {
-    width: auto;
-    height: auto;
+    width: 250px;
     border-radius: 100%;
-    margin-top: 20px;
-    margin-left: 20px;
-    max-width: 250px;
-
 }
