@@ -1,0 +1,9 @@
+.container {
+    background-image:linear-gradient(rgb(255, 255, 255),rgba(182, 188, 248, 0.8)),
+    url(../../../assets/tree2.png);
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-attachment: fixed;
+    height: 250px;
+    
+}

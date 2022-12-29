@@ -3,7 +3,7 @@
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
-    display:grid;
+    display: grid;
     
 }
 
@@ -12,7 +12,11 @@
  align-items: center;
 }
 
-
+.col-lg-4 {
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
 
 
 
