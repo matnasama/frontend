@@ -11,12 +11,66 @@ div{
 
 
 #nombre {
-    margin-left: 30px;
     margin-top: 20px;
+    font-weight: bold;
 }
 
 
 .img-fluid {
     padding: 5px;
     border-radius: 100%;
+}
+
+@media (max-width: 575px) {
+    #foto_perfil {
+        position: absolute;
+        width: 50%;
+        left: 25%;
+        top: 30%;
+    }
+}
+
+@media (min-width: 576px) {
+    #foto_perfil {
+        position: absolute;
+        width: 30%;
+        left: 20%;
+        top: 35%;
+    }
+}
+
+@media (min-width: 768px) { 
+    #foto_perfil {
+        position: absolute;
+        width: 30%;
+        left: 20%;
+        top: 35%;
+    }
+}
+
+@media (min-width: 992px) { 
+    #foto_perfil {
+        position: absolute;
+        width: 15%;
+        left: 20%;
+        top: 35%;
+    }
+}
+
+@media (min-width: 1200px) { 
+    #foto_perfil {
+        position: absolute;
+        width: 15%;
+        left: 20%;
+        top: 35%;
+    }
+}
+
+@media (min-width: 1400px) { 
+    #foto_perfil {
+        position: absolute;
+        width: 15%;
+        left: 20%;
+        top: 35%;
+    }
 }
