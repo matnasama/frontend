@@ -1,0 +1,28 @@
+
+.experiencia {
+    padding-top: 20px;
+    background-color: rgb(241, 253, 255);
+}
+.titulo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.area {
+    vertical-align: middle;
+    text-align: center;
+    padding: 30px;
+}
+
+.institucion {
+    vertical-align: middle;
+    text-align: center;
+    padding: 20px;
+}
+.antiguedad {
+    text-align: center;
+}

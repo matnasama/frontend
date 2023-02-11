@@ -1,0 +1,15 @@
+.titulo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.informacion {
+    padding-top: 20px;
+}
+.institucion {
+    vertical-align: middle;
+    text-align: center;
+}
