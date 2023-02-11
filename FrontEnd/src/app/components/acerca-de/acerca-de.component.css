@@ -2,11 +2,13 @@
 .parent{
     display: grid;
     place-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
 
 }
 
 div{
-    background-color: rgb(244, 247, 250);
+    background-color: rgba(152, 196, 240, 0.747);
     text-align: center;
 }
 
@@ -14,6 +16,9 @@ div{
     align-items: center;
     margin-left: 4px;
     padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
 }
 
 .col-xs {

@@ -1,5 +1,5 @@
 .titulo {
-    margin-top: 20px;
+
     margin-bottom: 20px;
     text-align: center;
 }
@@ -12,4 +12,10 @@ p {
 .institucion {
     vertical-align: middle;
     text-align: center;
+}
+
+.educacion {
+        background-color: rgba(152, 196, 240, 0.747);
+        margin-left: 10px;
+        margin-right: 10px;
 }
