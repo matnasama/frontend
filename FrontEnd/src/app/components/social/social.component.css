@@ -1,4 +1,21 @@
 img{
-    width: 30px;
+    width: 40px;
+}
+
+li {
+    width: 50px;
     margin-right: 5px;
+}
+
+nav {
+    background-color: #00358e;
+}
+
+.navbar-toggler {
+    border: none !important;
+    color: white;
+}
+
+.offcanvas-body {
+    place-items: center;
 }
