@@ -16,6 +16,32 @@ nav {
     color: white;
 }
 
-.offcanvas-body {
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+
+.offcanvas {
+    background-color: #00358e;
+    --bs-offcanvas-width: 150px;
     place-items: center;
+}
+
+@media (min-width: 768px) {
+    .text-info {
+        --bs-text-opacity: 0;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .offcanvas-body {
+        text-align: center;
+    }
+    .mb-2 {
+        margin-bottom: 0.5rem !important;
+        display: grid;
+        place-items: center;
+    }
 }
