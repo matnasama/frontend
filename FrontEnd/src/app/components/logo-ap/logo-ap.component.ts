@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./logo-ap.component.css']
 })
 export class LogoAPComponent {
-
+  
 }

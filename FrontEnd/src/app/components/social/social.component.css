@@ -45,3 +45,8 @@ nav {
         place-items: center;
     }
 }
+
+.login {
+    display: grid;
+    place-items: center;
+}
