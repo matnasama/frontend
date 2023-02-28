@@ -1,4 +1,3 @@
-
 export class NuevoUsuario {
     nombre!: string;
     nombreUsuario!: string;
